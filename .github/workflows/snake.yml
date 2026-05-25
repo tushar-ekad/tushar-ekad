@@ -17,7 +17,7 @@ jobs:
           github_user_name: tushar-ekad
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.svg?color_snake=%2300ff00&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
+            dist/github-contribution-grid-snake.svg?palette=neon
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
