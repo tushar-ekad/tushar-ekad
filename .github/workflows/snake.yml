@@ -11,15 +11,17 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: tushar-ekad
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.svg?palette=neon
+            dist/github-contribution-grid-snake.svg?color_snake=%23b0b0b0&color_dots=%23161616,%23262626,%23373737,%23484848,%23606060
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23c0c0c0&color_dots=%230d1117,%23222222,%23333333,%23444444,%23666666
 
-      - name: Push to output branch
+      - name: Push Snake to Output Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
