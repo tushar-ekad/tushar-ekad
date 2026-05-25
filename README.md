@@ -24,7 +24,7 @@
 </p>
 </td>
 <td width="45%" align="center" valign="top">
-  <img src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif" width="300", height="300" alt="anime coding gif"/>
+  <img src="https://i.pinimg.com/originals/0a/86/20/0a8620cac594d2015d1a692cbc9743b2.gif" width="300", height="300" alt="anime coding gif"/>
 </td>
 </tr>
 </table>
