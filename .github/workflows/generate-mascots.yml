@@ -1,3 +1,4 @@
+```yaml
 name: Generate Manga Mascots
 
 on:
@@ -6,16 +7,19 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -24,8 +28,12 @@ jobs:
 
       - name: Commit SVGs
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add output/*.svg
-          git commit -m "Update manga mascots" || echo "No changes"
+
+          git diff --staged --quiet || git commit -m "Update manga mascots"
+
           git push
+```
