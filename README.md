@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते 🙏, I'm Tushar Ekad!</h1>
+<h1 align="center">Hello There 👋, I'm Tushar Ekad!</h1>
 <p align="center">
   <i>I don't talk much. I just ship.</i>
 </p>
