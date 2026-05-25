@@ -1,86 +1,188 @@
-<h1 align="center">Hello There 👋, I'm Tushar Ekad!</h1>
-<p align="center">
-  <i>I don't talk much. I just ship.</i>
-</p>
-<table align="center" border="0">
+<!-- ░▒▓ MANGA PROFILE — TUSHAR EKAD ▓▒░ -->
+
+<div align="center">
+
+```
+ ████████╗██╗   ██╗███████╗██╗  ██╗ █████╗ ██████╗ 
+ ╚══██╔══╝██║   ██║██╔════╝██║  ██║██╔══██╗██╔══██╗
+    ██║   ██║   ██║███████╗███████║███████║██████╔╝
+    ██║   ██║   ██║╚════██║██╔══██║██╔══██║██╔══██╗
+    ██║   ╚██████╔╝███████║██║  ██║██║  ██║██║  ██║
+    ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+#### *"I don't talk much."*
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════╗ -->
+<!-- ║   PANEL 01 — THE HERO       ║ -->
+<!-- ╚══════════════════════════════╝ -->
+
+<table border="0" align="center">
 <tr>
 <td width="55%" valign="top">
+
+```
+┌─────────────────────────────────┐
+│  CHARACTER PROFILE              │
+│─────────────────────────────────│
+│  NAME   : Tushar Ekad           │
+│  CLASS  : Generative AI Eng.    │
+│  ORIGIN : India 🇮🇳              │
+│  GUILD  : Nabla Infotech        │
+│  LEVEL  : 3+ years              │
+│  STATUS : Building in silence   │
+└─────────────────────────────────┘
+```
+
+> 💬 *"My code doesn't need an explanation.  
+> The commit history speaks for itself."*
+
 <p>
-  <b>Generative AI Engineer</b> · India 🇮🇳<br/>
-  Building production-grade LLM systems
+  <a href="mailto:ekadtushar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="36" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/tushar-ekad">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/tushar-ekad">
+    <img src="https://skillicons.dev/icons?i=github" width="36" height="36"/>
+  </a>
 </p>
-<p>
-  🔭 &nbsp;Working on RAG pipelines, Voice AI & multi-agent systems<br/>
-  🌱 &nbsp;Currently learning Machine Learning from the ground up<br/>
-  🎨 &nbsp;Sketching & digital art when not coding<br/>
-  📖 &nbsp;Manga & manhwa reader<br/>
-  🎧 &nbsp;Always has a playlist running<br/>
-  ⚡ &nbsp;I build systems that talk back. Literally.
-</p>
-<p>
-  <a href="mailto:ekadtushar@gmail.com"><img src="https://img.shields.io/badge/Gmail-ekadtushar-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tushar-ekad"><img src="https://img.shields.io/badge/LinkedIn-tushar--ekad-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/tushar-ekad"><img src="https://img.shields.io/github/followers/tushar-ekad?label=Follow&style=flat-square&logo=github"/></a>
-</p>
+
 </td>
 <td width="45%" align="center" valign="top">
-  <img src="https://i.pinimg.com/originals/0a/86/20/0a8620cac594d2015d1a692cbc9743b2.gif" width="300", height="300" alt="anime coding gif"/>
+
+<img src="https://i.pinimg.com/originals/0a/86/20/0a8620cac594d2015d1a692cbc9743b2.gif" width="280" height="280" alt="anime coding"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-### A little more about me...
+<!-- ╔══════════════════════════════╗ -->
+<!-- ║   PANEL 02 — ABILITIES      ║ -->
+<!-- ╚══════════════════════════════╝ -->
+
+<div align="center">
+
+### ⚔️ ── ABILITIES & ARSENAL ── ⚔️
+
+</div>
 
 ```python
 from langchain.prompts import SystemMessagePromptTemplate
 
 system_prompt = SystemMessagePromptTemplate.from_template("""
-You are Tushar Ekad — a Generative AI Engineer based in India 🇮🇳.
-You currently work with production-grade LLM systems.
-
-## Core Skills
-- RAG pipelines, Voice AI agents, multi-agent orchestration
-- MCP (Model Context Protocol), Tool Calling, LangGraph, LangChain
-- AWS Bedrock, OpenAI, Azure OpenAI, Claude
-- Vector DBs: Pinecone, ChromaDB
-- Backend: Python, FastAPI, Flask, MongoDB, MySQL, Microsoft SQL Server
-- Real-time voice: LiveKit, STT, TTS, Voice RAG
-
-## Currently Learning
-- Machine Learning 🤖 — fundamentals to production
-  (yes, even GenAI engineers go back to basics)
-
-## Outside of Work
-- Reading manga & manhwa 📖
-- Sketching & digital art 🎨
-- Losing yourself in a playlist 🎧
-
-## Personality
-- Silent builder. Ships first, talks later.
-- Prefers clean commits over long explanations.
-- Believes the best AI systems are the ones users forget are AI.
-
-## Fun Fact
-I build systems that talk back. Literally. 🎙️
+╔══════════════════════════════════════════════════════╗
+║              SHINOBI SKILLS SCROLL 📜                ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  ▸ RAG pipelines, Voice AI, multi-agent systems      ║
+║  ▸ MCP (Model Context Protocol), Tool Calling        ║
+║  ▸ LangGraph, LangChain                              ║
+║  ▸ AWS Bedrock · OpenAI · Azure OpenAI · Claude      ║
+║  ▸ Vector DBs: Pinecone, ChromaDB                    ║
+║  ▸ FastAPI · Flask · Python · SQL                    ║
+║  ▸ MongoDB · MySQL · Microsoft SQL Server            ║
+║  ▸ LiveKit · STT · TTS · Voice RAG                   ║
+║                                                      ║
+╠══════════════════════════════════════════════════════╣
+║  CURRENTLY TRAINING                                  ║
+║  ▸ Machine Learning 🤖 — from zero to production     ║
+║    (yes, even GenAI engineers go back to basics)     ║
+╠══════════════════════════════════════════════════════╣
+║  OFF-DUTY                                            ║
+║  ▸ Reading manga & manhwa 📖                         ║
+║  ▸ Sketching & digital art 🎨                        ║
+║  ▸ Lost in a playlist 🎧                             ║
+╠══════════════════════════════════════════════════════╣
+║  SPECIAL MOVE                                        ║
+║  ▸ Builds systems that talk back. Literally. 🎙️      ║
+╚══════════════════════════════════════════════════════╝
 """)
 ```
 
+---
 
+<!-- ╔══════════════════════════════╗ -->
+<!-- ║   PANEL 03 — TECH STACK     ║ -->
+<!-- ╚══════════════════════════════╝ -->
 
-### 🌱 Currently Learning
+<div align="center">
 
-> Diving into **Machine Learning** from the ground up — supervised learning, model evaluation, and eventually connecting it back to the GenAI systems I build every day.
+### 🛠️ ── WEAPON INVENTORY ── 🛠️
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,mongodb,mysql&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postman,bitbucket,git,github,vscode&perline=10" />
+
+</div>
 
 ---
 
 
-<p align="center">
-  <i>If my commits look quiet, I'm probably reading manhwa. Or building something new. Could be both. 🎨</i>
-</p>
+---
 
-<p align="center">
-  Say hi anytime — I'm always up for a good conversation. 😊<br/>
-  📫 <b>ekadtushar@gmail.com</b> · <a href="https://linkedin.com/in/tushar-ekad">LinkedIn</a>
-</p>
+<!-- ╔══════════════════════════════╗ -->
+<!-- ║   PANEL 05 — STATS          ║ -->
+<!-- ╚══════════════════════════════╝ -->
+
+<div align="center">
+
+### 📊 ── BATTLE STATS ── 📊
+
+<img src="https://github-readme-stats.vercel.app/api?username=tushar-ekad&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-ekad&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════╗ -->
+<!-- ║   PANEL 06 — SNAKE          ║ -->
+<!-- ╚══════════════════════════════╝ -->
+
+<div align="center">
+
+### 🐍 ── THE SNAKE DEVOURS MY CONTRIBUTIONS ── 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tushar-ekad/tushar-ekad/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tushar-ekad/tushar-ekad/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/tushar-ekad/tushar-ekad/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════╗ -->
+<!-- ║   PANEL 07 — WALKING CAT    ║ -->
+<!-- ╚══════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="30" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="30" />
+&nbsp;
+
+*If my commits look quiet — I'm reading manhwa. Or shipping something new. Could be both.* 🎨
+
+<br/>
+
+> 💬 *"The best AI systems are the ones users forget are AI."*
+
+<br/>
+
+Say hi anytime 😊 &nbsp;·&nbsp; 📫 **ekadtushar@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/tushar-ekad)
+
+</div>
