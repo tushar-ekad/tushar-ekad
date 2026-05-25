@@ -7,7 +7,7 @@
 <td width="55%" valign="top">
 <p>
   <b>Generative AI Engineer</b> · India 🇮🇳<br/>
-  Building production-grade LLM systems at <b>Nabla Infotech</b>
+  Building production-grade LLM systems
 </p>
 <p>
   🔭 &nbsp;Working on RAG pipelines, Voice AI & multi-agent systems<br/>
