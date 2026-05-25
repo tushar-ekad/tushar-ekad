@@ -138,9 +138,12 @@ system_prompt = SystemMessagePromptTemplate.from_template("""
 
 ### 📊 ── BATTLE STATS ── 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=tushar-ekad&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-ekad&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+<table border="0"><tr>
+<td><img src="https://github-readme-stats.shion.dev/api?username=tushar-ekad&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></td>
+<td><img src="https://streak-stats.demolab.com/?user=tushar-ekad&theme=dark&hide_border=false"/></td>
+</tr></table>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tushar-ekad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
