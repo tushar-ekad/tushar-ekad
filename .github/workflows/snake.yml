@@ -1,26 +1,21 @@
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: tushar-ekad
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23b0b0b0&color_dots=%23161616,%23262626,%23373737,%23484848,%23606060
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23c0c0c0&color_dots=%230d1117,%23222222,%23333333,%23444444,%23666666
-
+            dist/github-contribution-grid-snake.svg?color_snake=%23888888&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23888888&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2356d364
       - name: Push Snake to Output Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
