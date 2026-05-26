@@ -139,11 +139,11 @@ system_prompt = SystemMessagePromptTemplate.from_template("""
 ### 📊 ── BATTLE STATS ── 📊
 
 <table border="0"><tr>
-<td><img src="https://github-readme-stats.shion.dev/api?username=tushar-ekad&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></td>
-<td><img src="https://streak-stats.demolab.com/?user=tushar-ekad&theme=dark&hide_border=false"/></td>
+<td><img src="https://github-readme-stats.shion.dev/api?username=tushar-ekad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=25600"/></td>
+<td><img src="https://streak-stats.demolab.com/?user=tushar-ekad&theme=dark&hide_border=false&cache_seconds=25600"/></td>
 </tr></table>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tushar-ekad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tushar-ekad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
