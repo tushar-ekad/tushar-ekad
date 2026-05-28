@@ -138,14 +138,17 @@ system_prompt = SystemMessagePromptTemplate.from_template("""
 
 ### 📊 ── BATTLE STATS ── 📊
 
-<table border="0"><tr>
-<td><img src="https://github-readme-stats.shion.dev/api?username=tushar-ekad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60"/></td>
-<td><img src="https://streak-stats.demolab.com/?user=tushar-ekad&theme=dark&hide_border=false&cache_seconds=60"/></td>
-</tr></table>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tushar-ekad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+<table border="0"> 
+ <tr>
+  <td> <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tushar-ekad&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/> </td> 
+  
+  <td> <img src="https://github-readme-streak-stats.herokuapp.com?user=tushar-ekad&theme=dark&hide_border=false"/> </td> 
+  </tr> 
+  </table> 
+  <br/> 
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=tushar-ekad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> 
+  
+  </div>
 
 ---
 
